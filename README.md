@@ -8,7 +8,7 @@
 ### Clone the repository
 ### Use "npm i" in the command line
 ### Sign in to your mysql
-### set source to "db/schema.sql"
+### Set source to "db/schema.sql"
 ### And "use ecommerce_db"
 ### Then run "npm run seed" in new command prompt
 
